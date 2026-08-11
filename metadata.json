@@ -1,0 +1,6 @@
+{
+  "name": "Neon Nitro Highway Velocity",
+  "description": "High-speed arcade highway racer featuring 28 chapters, upgraded 3D perspective graphics, detailed vehicle customization, dynamic weather, bioluminescent roadside trees, and procedural Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
